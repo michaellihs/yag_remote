@@ -1,0 +1,15 @@
+####################################################
+# Setup for yag_remote
+#
+#
+# @author Daniel Lienert <daniel@lienert.cc> 
+# @author Michael Knoll <mimi@kaktusteam.de>
+# @package yag_remote
+# @subpackage TypoScript
+####################################################
+
+plugin.tx_yagremote.settings {
+
+    test = test
+
+}
