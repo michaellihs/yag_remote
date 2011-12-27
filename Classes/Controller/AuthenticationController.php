@@ -44,5 +44,23 @@ class Tx_YagRemote_Controller_AuthenticationController extends Tx_Extbase_MVC_Co
         return 'pong';
     }
 
+
+
+    /**
+     * Action for doing user login
+     *
+     * @param string user User to be logged in
+     * @param password Password for user
+     */
+    public function loginAction($user, $password) {
+
+    }
+
+
+
+    public function getChallengeAction() {
+        
+    }
+
 }
 ?>
